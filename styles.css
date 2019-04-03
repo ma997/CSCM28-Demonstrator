@@ -1,0 +1,70 @@
+@charset "utf-8";
+
+#inputDiv{	
+	position:relative;	
+	top:25%;	
+	margin:0 auto;	
+	width:55%;	
+	height:30%;	
+	background-color:#FFF;	
+	border: 2px solid;	
+	border-radius: 10px;	
+	opacity: 0.7;	
+	filter: alpha(opacity=40);	
+	border-color:#663399;
+}
+
+#inputField{	
+	position:relative;	
+	top:3px;	
+	left:41%;
+	width:30%;
+	height:30%;
+}
+
+#btn{	
+	position:relative;	
+	left:72%; 
+	margin:5px;	
+	bottom:8%;
+}
+
+#enterPrompt{	
+	position:absolute;	
+	top:15%;	
+	left:8%;	
+	color:#663399;	
+	font-family:Arial,Helvetica,sans-serif;	
+	font-size:2.2vh;
+}
+
+#putThisOut{
+	position:absolute;
+	left:5%;
+	top:10%;
+	width:90%;
+	height:85%;
+	background-color:#663399;
+	color:#FFF;
+	font-family:Arial,Helvetica,sans-serif;
+	opacity:0.8;
+	filter: alpha(opacity=40);
+	border-radius:15px;
+	overflow-y: auto;
+}
+
+
+#outputDiv{	
+	position:relative;	
+	top:5%;	
+	margin:0 auto;	
+	width:55%;	
+	height:15%;	
+	background-color:#FFF;	
+	border: 2px solid;	
+	border-radius: 10px;
+	border-color:#663399;
+	color:#000;
+}
+
+
